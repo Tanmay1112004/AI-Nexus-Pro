@@ -41,13 +41,11 @@
 
 ## 🎯 **Live Demo**
 
-<div align="center">
+![AI Nexus Pro Demo](https://github.com/Tanmay1112004/AI-Nexus-Pro/blob/main/screenshots/Screenshot%202025-10-04%20134753.png)
 
-**Experience the live application:** [Open in GitHub Codespaces](https://codespaces.new/your-username/ai-nexus-pro)
+![demo](https://github.com/Tanmay1112004/AI-Nexus-Pro/blob/main/screenshots/Screenshot%202025-10-04%20134854.png)
 
-![AI Nexus Pro Demo](https://via.placeholder.com/800x400/667eea/ffffff?text=AI+Nexus+Pro+Demo+Interface)
-
-</div>
+![demo](https://github.com/Tanmay1112004/AI-Nexus-Pro/blob/main/screenshots/Screenshot%202025-10-04%20134944.png)
 
 ## 🛠️ **Quick Start**
 
