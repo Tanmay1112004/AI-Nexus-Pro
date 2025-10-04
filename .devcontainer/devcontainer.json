@@ -1,0 +1,21 @@
+{
+    "name": "AI Assistant Pro",
+    "image": "mcr.microsoft.com/devcontainers/python:3.11",
+    "postCreateCommand": "pip install -r requirements.txt",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-python.python",
+                "ms-python.vscode-pylance"
+            ]
+        }
+    },
+    "forwardPorts": [8501],
+    "portsAttributes": {
+        "8501": {
+            "label": "AI Assistant App",
+            "onAutoForward": "openPreview"
+        }
+    },
+    "postStartCommand": "echo '🚀 AI Assistant with HuggingFace is ready! Run: streamlit run app.py'"
+}
